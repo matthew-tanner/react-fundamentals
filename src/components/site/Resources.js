@@ -6,52 +6,52 @@ const Resources = () => {
         <p>Below are some resources.</p>
         <ul>
           <li>
-            <a href="https://reactjs.org/docs/getting-started.html" target="_blank">
+            <a href="https://reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer">
               The Official Docs
             </a>
           </li>
           <li>
-            <a href="https://reactraining.com/react-router" target="_blank">
+            <a href="https://reactraining.com/react-router" target="_blank" rel="noreferrer">
               React Router Dom
             </a>
           </li>
           <li>
-            <a href="https://www.udemy.com/courses/react-redux" target="_blank">
+            <a href="https://www.udemy.com/courses/react-redux" target="_blank" rel="noreferrer">
               Stephen Grider's Udemy Course for the Udemy API
             </a>
           </li>
           <li>
-            <a href="https://www.pluralsight.com/courses/react-js-getting-started" target="_blank">
+            <a href="https://www.pluralsight.com/courses/react-js-getting-started" target="_blank" rel="noreferrer">
               Samer Buna's Pluralsight Course for the GitHub API Starter
             </a>
           </li>
           <li>
-            <a href="https://www.udemy.com/course/react-the-guide-incl-redux" target="_blank">
+            <a href="https://www.udemy.com/course/react-the-guide-incl-redux" target="_blank" rel="noreferrer">
               Maximilian Schwarzmuller's Udemy Course
             </a>
           </li>
           <li>
-            <a href="https://reactstrap.github.io" target="_blank">
+            <a href="https://reactstrap.github.io" target="_blank" rel="noreferrer">
               ReactStrap for a bootstrap Application
             </a>
           </li>
           <li>
-            <a href="https://gorangajic.github.io/react-icons/fa.html" target="_blank">
+            <a href="https://gorangajic.github.io/react-icons/fa.html" target="_blank" rel="noreferrer">
               Font Awesome for React
             </a>
           </li>
           <li>
-            <a href="https://github.com/bmorelli25/interactive-bitcoin-price-chart" target="_blank">
+            <a href="https://github.com/bmorelli25/interactive-bitcoin-price-chart" target="_blank" rel="noreferrer">
               Bitcoin
             </a>
           </li>
           <li>
-            <a href="https://github.com/mthorry/earthquakes-mapper" target="_blank">
+            <a href="https://github.com/mthorry/earthquakes-mapper" target="_blank" rel="noreferrer">
               Google Maps
             </a>
           </li>
           <li>
-            <a href="https://neptunian.github.io/react-photo-gallery" target="_blank">
+            <a href="https://neptunian.github.io/react-photo-gallery" target="_blank" rel="noreferrer">
               React Photo Gallery
             </a>
           </li>

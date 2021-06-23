@@ -27,7 +27,7 @@ const NormalComponent = () => {
     <div style={{ border: "2px solid black" }}>
       <h1>Normal functional component</h1>
       <p>This was constructed with JSX in the return.</p>
-      <img src="https://pbs.twimg.com/media/DOzL82mXkAA0zFs.jpg" />
+      <img src="https://pbs.twimg.com/media/DOzL82mXkAA0zFs.jpg" alt="" />
     </div>
   );
 };
@@ -38,6 +38,6 @@ const CreateElementComponent = () => {
     { style: { border: "2px solid black" } },
     React.createElement("h1", null, "Create Element Component"),
     React.createElement("p", null, "This was constructed with createElement() in the return."),
-    React.createElement("img", { src: "https://pbs.twimg.com/media/DOzL82mXkAA0zFs.jpg" }, null)
+    React.createElement("img", { src: "https://pbs.twimg.com/media/DOzL82mXkAA0zFs.jpg", alt: "" }, null)
   );
 };
